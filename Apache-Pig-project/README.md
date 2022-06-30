@@ -1,0 +1,1 @@
+Dự án Apache Pig xử lý tập dữ liệu Application-URL, trong đó tôi sẽ lấy tập dữ liệu Application-URL-Request từ client và sau đó xử lý nó máy server sử dụng Apache Pig. Sau khi xử lý dữ liệu từ hệ thống Pig, sau đó sẽ đẩy dữ liệu sang máy client và hiển thị lên một trang web
